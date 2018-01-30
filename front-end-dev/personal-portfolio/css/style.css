@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,400i,700");
+body { font-family: 'Raleway', sans-serif; }
+.jumbotron {
+  background-image: url("https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=ec333154e5185fa38fae929447a66afb");
+  background-size: cover;
+}
+blockquote {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 40px;
+}
